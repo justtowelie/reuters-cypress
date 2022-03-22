@@ -1,5 +1,4 @@
-class Data {
-
+export default
   [
     {
       name: 'TESCO',
@@ -15,13 +14,10 @@ class Data {
     },
     {
       name: 'Indivior Plc',
-      short: 'NDV.L'
+      short: 'INDV.L'
     },
     {
       name: 'Mitie',
       short: 'MTO.L'
     }
   ]
-}
-
-export default Data
